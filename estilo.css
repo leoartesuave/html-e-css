@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pai{
+	width:auto;
+	height: auto;
+	margin: 0;
+	border: dotted 10px black;
+	padding: none;
+	overflow: hidden;
+	background-color: yellow;
+}
+.caixa1{
+	width:200px;
+	height:200px;
+	margin:10px;
+	float: left;
+	background-color:blue;
+}
+.caixa2{
+	width:200px;
+	height:200px;
+	margin: 10px;
+	float: left;
+	background-color:#D7D7D7;
+}
+.caixa3{
+	width:100px;
+	height:200px;
+	margin: 10px;
+	float: left;
+	background-color:#49D100;
+}
+
+.caixa4{
+	width:100px;
+	height:200px;
+	margin: 10px;
+	float: left;
+	background-color:#D17200;
+}
+
+.mae{
+	width: auto;
+	height: auto;
+	margin: 10;
+	border: double 10px pink;
+	padding: none;
+	overflow: hidden;
+    background-color: green;
+
+}
+.fora{
+	width:200px;
+	height:200px;
+	margin: 10px ;
+	float: left;
+	background-color:red;
+	
+}
+.fora1{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+	background-color:#000000;
+}

@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+.LeO{
+	width: auto;
+	height: 100%;
+	padding: 10px;
+  overflow: hidden;
+	background-color: blue;
+}
+.LeO1{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	font-style: oblique;
+	font-weight: bold;
+	text-indent: auto;
+	background-color: red;
+}
+
+.LeO2{
+	width:50%;
+	height:100px;
+	text-align: center;
+	float: left;
+	background-color: saddlebrown;
+}
+
+.LeO3{
+	width: 50%;
+	height: 100px;
+	text-align: center;
+	color: white;
+	float:left;
+	background-color: cadetblue;
+}
+
+.c{
+	width: 25%;
+	height: 100px;
+	text-align: center;
+	
+	float:left;
+	background-color: blueviolet;
+}
+.i{
+	width: 25%;
+	height: 100px;
+	text-align: center;
+	color: white;
+	float:left;
+	background-color: black;
+}
+.n{
+	width: 25%;
+	height: 100px;
+	text-align: center;
+	
+	float:left;
+	background-color: dodgerblue;
+}
+.o{
+	width: 25%;
+	height: 100px;
+	text-align: center;
+	
+	float:left;
+	background-color: lightsteelblue;
+}
+
+
