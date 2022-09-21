@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+#topo{
+	width:1000px;
+	height:200px;
+	margin:auto;
+	overflow: hidden;
+	background-color:red;
+}
+#logo{
+	width:150px;
+	height:150px;
+	float:left;
+	background-color: darkred;
+}
+#banner{
+	width:850px;
+	height:150px;
+	float:left;
+	background-color: indianred;
+}
+#menu{
+	width:1000px;
+	height:50px;
+	float:left;
+	background-color:lightcoral;
+}
+
+
+#conteudo{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	padding:10px;
+	box-sizing:border-box;
+	background-color:orange;
+}
+
+#inicio{
+	width:auto;
+	height:auto;
+	display:flex;
+	justify-content: center;
+	background-color:yellow;
+}
+
+#entrada{
+	width:500px;
+	heidght:300px;
+	background-color:darkkhaki;
+}
+#lateral{
+	width: 500px;
+	height: 300px;
+	background-color:khaki;
+}
+#destaque{
+	width:auto;
+	height:auto;
+	display:flex;
+	justify-content:center;
+	background-color:orangered;
+}
+
+.produto{
+	width:320px;
+	height:auto;
+	background-color:burlywood;
+}
+
+.produto img{width: 100%}
+
+.media{
+	width:50px;
+	height: 50px;
+	margin:auto;
+	background-color: lightcyan
+}
+
+
+
+#rodape{
+	width:auto;
+	height:200px;
+	background-color:yellow; 
+
+}
