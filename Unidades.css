@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0px;
+	background: rgb(0,5,36);
+background: linear-gradient(90deg, rgba(0,5,36,1) 0%, rgba(241,235,8,1) 35%, rgba(0,212,255,1) 100%);
+}
+.fundo{
+	width: 50%;
+	height: 400px;
+	border: solid;
+	justify-content: center;
+	background-color:burlywood;
+}
+p{
+	font-size: 30px;
+}
+
+.imagem{
+display:flex;
+justify-content: center;
+}
+
+.imagem img{
+	margin:0 20px;
+}
+
+#Menu{
+	width: auto;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	background-color: sandybrown;
+	
+}
+#Menu a:hover{
+	margin: 0 20px;
+	color:dodgerblue;
+}
+#Menu a{
+	font-size: 30px;
+	margin: 10px;
+	
+}
